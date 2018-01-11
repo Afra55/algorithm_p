@@ -1,5 +1,5 @@
 """
-选择排序
+选择排序, O(n^2)
 """
 from random import shuffle
 
